@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "image_url": "CJHVAD.jpg",
+        "extracted_text": "Ledu 43.95 PEY0USL ll i 33 gl700 95",
+        "product_name": "Ledu PEY 0USL ll i gl 700",
+        "price": "43.95"
+    },
+    {
+        "id": 2,
+        "image_url": "CJIDRC.jpg",
+        "extracted_text": "1E 27 .99 42.00 Colssori's 1oiwuos a EACH 60439225 60433305 1Loo.-g 1ohnson's Shiny Drops Kids Shomooo 500ml",
+        "product_name": "EACH 60433305 1Loo.-g 1ohnson's Shiny Drops Kids Shomooo 500ml",
+        "price": "27.99"
+    },
+    {
+        "id": 3,
+        "image_url": "CJIIFW.jpg",
+        "extracted_text": "12 aa .99 EACH 1E21.99 Fa Fa Fa Fa Kias Underwaner SP0RT CREAMS01L L0EYTTA MerMay 1a P0-Loalaaiwl1 Fa ShowerGel250ml",
+        "product_name": "CREAMS 01L MerMay 1a P 0-Loalaaiwl 1 Fa ShowerGel 250ml",
+        "price": "21.99"
+    },
+    {
+        "id": 4,
+        "image_url": "CJILQC.jpg",
+        "extracted_text": "PUUR HELE AMANDEL 4 Ritter Sport AED Chocolate .50 1x100gm",
+        "product_name": "PUUR HELE AMANDEL Ritter Sport Chocolate 1x 100gm",
+        "price": ""
+    },
+    {
+        "id": 5,
+        "image_url": "CJILQU.jpg",
+        "extracted_text": "DYNA Duhai Hocalede P1STACH10 KUNAFA Dyna Dubai Chocolate Pistachio AED Kunafa .99 1x230gm",
+        "product_name": "Chocolate Pistachio Kunafa 1x 230gm",
+        "price": ""
+    },
+    {
+        "id": 6,
+        "image_url": "CJIPOJ.jpg",
+        "extracted_text": "naghwgzilaajy 2405g1 Angus beef burger, Sadia halloumi or regular,240g Special ANGUS S11T1 240% 1.750 0.990",
+        "product_name": "ANGUS 240% 1.750 0.990",
+        "price": "0.99"
+    },
+    {
+        "id": 7,
+        "image_url": "CJIQRB.jpg",
+        "extracted_text": "1g oa_1j aloo EE. SAVE 6g 8 alooHaj 30.99 olaELg 1t 22.99 Lurpak Unsalted Butter (400g)",
+        "product_name": "olaELg 1t 22.99 Lurpak Unsalted Butter (400g)",
+        "price": "22.99"
+    },
+    {
+        "id": 8,
+        "image_url": "CJIQTS.jpg",
+        "extracted_text": "4 PCS AL1E ALR10UD 10NT Egiio ALN0UD Assorted AL-10UD 39M SAVE og XXX 10.01 UigS ag?11 aigjKo 21 (oljE/ro 10.99 Al 1oud Kuwaiti Pasta(250/400g)",
+        "product_name": "(oljE/ro 10.99 Al 1oud Kuwaiti Pasta(250/400g)",
+        "price": "10.01"
+    },
+    {
+        "id": 9,
+        "image_url": "CJIQUR.jpg",
+        "extracted_text": "1/2 /atika jewl Price Vatil Eg iio MEN ANT1-HAURFAL Assorted SAVE 6 /Kyjlo jew a!j 11.99 1o1Ecgw1L 5.99 Vatika/Parachute Hair Cream (140ml)",
+        "product_name": "1o 1Ecgw 1L 5.99 Vatika/Parachute Hair Cream (140ml)",
+        "price": "5.99"
+    },
+    {
+        "id": 10,
+        "image_url": "CJIQUS.jpg",
+        "extracted_text": "L0REAL GARN1GR SK1NACTM Micellar Salinyan WAFERAR Eg iio 3-1N-1 Assorted SAVE 20 / 1Ujg1 jLwo cLo 39.99 Lo Eijlc 1E19 .99 L'0real/Garnier Mi- cellarWater(400ml)",
+        "product_name": "1E 19 Lo Eijlc L'0real/Garnier Mi- cellarWater(400ml)",
+        "price": "19.99"
+    },
+    {
+        "id": 11,
+        "image_url": "CJIQUW.jpg",
+        "extracted_text": "1ohnsonis. ATA-R1CH Hydratior B0DYL0T10N 400ml bo SAVE 16.96 / ho aw? qg1 30.95 1Lo E-) ogwig? 13.99 Nivea/1ohnson's Body Lotion(400ml)",
+        "product_name": "1Lo E-) ogwig? 13.99 Nivea/1ohnson's Body Lotion(400ml)",
+        "price": "13.99"
+    },
+    {
+        "id": 12,
+        "image_url": "img1.jpg",
+        "extracted_text": "18 3 .99 PCS 11.85 BR BR BASK1N-R0BB1NS BASK1N-R0BS1NS' Very Berry Chocolate Strawberry Milk S7VE6P0 MEX 1a1A-aSia ljig1uwl Baskin robbins Flavored Milk180ml",
+        "product_name": "S 7VE 6P 0 Milk 1a 1A-aSia ljig 1uwl Baskin robbins Flavored Milk 180ml",
+        "price": "3.99"
+    }
+]
